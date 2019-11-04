@@ -17,8 +17,7 @@
 8. 备注：问题记录
 	* 安装xposed报错
 	```
-	sh: <stdin>[8]: /data/data/de.robv.android.xposed.installer/cache/update-binary: not executable: 32-bit ELF file
-Error 1 occurred
+	sh: <stdin>[8]: /data/data/de.robv.android.xposed.installer/cache/update-binary: not executable: 32-bit ELF file Error 1 occurred
 	```
 	* 解决方法：解决方法：设置-应用兼容性-关闭兼容性。重启模拟器，重新安装xposed。重新下载安装即可。
 	
