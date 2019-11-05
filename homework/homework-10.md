@@ -1,5 +1,9 @@
 # 9、10工具-burpsuite篇
 ## 1. 对特定网站进行渗透测试，行成测试报告
+* 测试网站：http://testphp.vulnweb.com/
+
+
+
 ## 2. 对ssl pining应用进行抓包
 * 采用了模拟器+xposed+just trust me 进行抓包
 1. 模拟器采用的是mumu模拟器，安装mumu模拟器
